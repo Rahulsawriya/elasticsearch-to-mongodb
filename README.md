@@ -1,4 +1,4 @@
-# elasticsearch-to-mongod
+# README
 
 script for migrate data from elasticsearch to mongodb.
 
